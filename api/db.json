@@ -47,36 +47,6 @@
       "incomeType": "Portfolio",
       "expenseType": "Travel",
       "expenseAmount": 8000
-    },
-    {
-      "incomeType": "Portfolio",
-      "expenseType": "asd",
-      "expenseAmount": "1",
-      "id": 9
-    },
-    {
-      "incomeType": "Active",
-      "expenseType": "A",
-      "expenseAmount": "1",
-      "id": 10
-    },
-    {
-      "incomeType": "Active",
-      "expenseType": "ASD",
-      "expenseAmount": "120",
-      "id": 11
-    },
-    {
-      "incomeType": "Active",
-      "expenseType": "School",
-      "expenseAmount": "500",
-      "id": 12
-    },
-    {
-      "incomeType": "Portfolio",
-      "expenseType": "qwe",
-      "expenseAmount": "111",
-      "id": 13
     }
   ]
 }
