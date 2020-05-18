@@ -1,0 +1,12 @@
+{
+  "expense_analyser_text": "Expense Analyser",
+  "analyse_your_monthly_expenses_text": "Analyse your monthly expenses",
+  "add_new_expense": "Add new expense",
+  "submit_button_text": "Submit",
+  "select_income_type_text": "Select income type",
+  "enter_expense_name_text": "Enter expense name",
+  "enter_expense_amount_text": "Enter expense amount",
+  "error_income_text": "Please select an income",
+  "error_expense_type_text": "No expense name provided",
+  "error_expense_amount_text": "No expense amount provided"
+}

@@ -1,0 +1,12 @@
+{
+  "expense_analyser_text": "Analyseur de dépenses",
+  "analyse_your_monthly_expenses_text": "Analysez vos dépenses mensuelles",
+  "add_new_expense": "Ajouter de nouvelles dépenses",
+  "submit_button_text": "Ajouter",
+  "select_income_type_text": "Sélectionnez le type de revenu",
+  "enter_expense_name_text": "Entrez le nom de la dépense",
+  "enter_expense_amount_text": "Entrez le montant des dépenses",
+  "error_income_text": "Veuillez sélectionner un revenu",
+  "error_expense_type_text": "Aucun nom de dépense fourni",
+  "error_expense_amount_text": "Aucun montant de dépenses fourni"
+}

@@ -1,0 +1,12 @@
+{
+  "expense_analyser_text": "Kostenanalysator",
+  "analyse_your_monthly_expenses_text": "Analysieren Sie Ihre monatlichen Ausgaben",
+  "add_new_expense": "Neue Kosten hinzufügen",
+  "submit_button_text": "Hinzufügen",
+  "select_income_type_text": "Einkommenstyp auswählen",
+  "enter_expense_name_text": "Geben Sie den Spesenamen ein",
+  "enter_expense_amount_text": "Ausgabenbetrag eingeben",
+  "error_income_text": "Bitte wählen Sie ein Einkommen",
+  "error_expense_type_text": "Bitte wählen Sie ein Einkommen",
+  "error_expense_amount_text": "Kein Kostenbetrag angegeben"
+}

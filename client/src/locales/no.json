@@ -1,0 +1,12 @@
+{
+  "expense_analyser_text": "Kostnadsanalyse",
+  "analyse_your_monthly_expenses_text": "Analyser månedlige utgifter",
+  "add_new_expense": "Legg til ny utgift",
+  "submit_button_text": "Legge til",
+  "select_income_type_text": "Velg inntektstype",
+  "enter_expense_name_text": "Skriv inn utgiftsnavn",
+  "enter_expense_amount_text": "Angi utgiftsbeløp",
+  "error_income_text": "Velg inntekt",
+  "error_expense_type_text": "Ingen utgiftsnavn oppgitt",
+  "error_expense_amount_text": "Ingen oppgitte beløp"
+}

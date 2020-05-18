@@ -1,0 +1,82 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "incomeType": "Active",
+      "expenseType": "Rent",
+      "expenseAmount": 10000
+    },
+    {
+      "id": 2,
+      "incomeType": "Active",
+      "expenseType": "Books",
+      "expenseAmount": 2000
+    },
+    {
+      "id": 3,
+      "incomeType": "Active",
+      "expenseType": "Grocery",
+      "expenseAmount": 5000
+    },
+    {
+      "id": 4,
+      "incomeType": "Active",
+      "expenseType": "Entertainment",
+      "expenseAmount": 1000
+    },
+    {
+      "id": 5,
+      "incomeType": "Active",
+      "expenseType": "Bills",
+      "expenseAmount": 1500
+    },
+    {
+      "id": 6,
+      "incomeType": "Active",
+      "expenseType": "Shopping",
+      "expenseAmount": 4000
+    },
+    {
+      "id": 7,
+      "incomeType": "Portfolio",
+      "expenseType": "Entertainment",
+      "expenseAmount": 3000
+    },
+    {
+      "id": 8,
+      "incomeType": "Portfolio",
+      "expenseType": "Travel",
+      "expenseAmount": 8000
+    },
+    {
+      "incomeType": "Portfolio",
+      "expenseType": "asd",
+      "expenseAmount": "1",
+      "id": 9
+    },
+    {
+      "incomeType": "Active",
+      "expenseType": "A",
+      "expenseAmount": "1",
+      "id": 10
+    },
+    {
+      "incomeType": "Active",
+      "expenseType": "ASD",
+      "expenseAmount": "120",
+      "id": 11
+    },
+    {
+      "incomeType": "Active",
+      "expenseType": "School",
+      "expenseAmount": "500",
+      "id": 12
+    },
+    {
+      "incomeType": "Portfolio",
+      "expenseType": "qwe",
+      "expenseAmount": "111",
+      "id": 13
+    }
+  ]
+}
